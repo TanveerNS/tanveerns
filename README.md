@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="left">
+    <a href="https://github.com/tanveerns">
+        <img src="https://komarev.com/ghpvc/?username=tanveerns&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/tanveerns?tab=followers">
+        <img src="https://img.shields.io/github/followers/tanveerns?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br>
+
+
+
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
